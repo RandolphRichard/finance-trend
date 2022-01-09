@@ -21,6 +21,8 @@ THEN the deposits or expenses added while they were offline are added to their t
 * mongoose
 * morgan
 
+# Screenshot:
+![](./public/images/1.png)
 ## Personal info
 
-Use npm run start to activate the app, or simply use the deployed link above.
+Use npm run start to activate the app, or simply use the deployed link above. It gives you an Up to date way to track your expenses and stay on Budget.
